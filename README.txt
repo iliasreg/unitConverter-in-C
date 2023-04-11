@@ -1,0 +1,1 @@
+a little project from school to get tha hang of functions and basic C programming.
